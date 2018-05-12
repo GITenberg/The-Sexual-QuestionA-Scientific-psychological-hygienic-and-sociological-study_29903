@@ -1,0 +1,39 @@
+_repo: The-Sexual-QuestionA-Scientific-psychological-hygienic-and-sociological-study_29903
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Marshall, C. F. (Charles Frederic)
+    alias: Marshall, Charles Frederic
+    birthdate: 1864
+    deathdate: 1940
+    gutenberg_agent_id: '34241'
+    url: http://www.gutenberg.org/2009/agents/34241
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Forel, Auguste
+    aliases:
+    - Forel, Auguste Henri
+    - Forel, August
+    birthdate: 1848
+    deathdate: 1931
+    gutenberg_agent_id: '34240'
+    url: http://www.gutenberg.org/2009/agents/34240
+description: ''
+gutenberg_issued: '2009-09-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29903'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HQ'
+- !lcsh 'Sex'
+title: 'The Sexual Question
+
+  A Scientific, psychological, hygienic and sociological study'
+url: http://www.gutenberg.org/ebooks/29903
