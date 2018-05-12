@@ -22,6 +22,8 @@ creator:
     gutenberg_agent_id: '34240'
     url: http://www.gutenberg.org/2009/agents/34240
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29903#The-Sexual-QuestionA-Scientific-psychological-hygienic-and-sociological-study
 gutenberg_issued: '2009-09-04'
 gutenberg_type: Text
 identifiers:
